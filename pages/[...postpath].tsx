@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`https://shorturl.at/egiot/`
+					`https://www.featureposts.com/2023/07/lena-and-adam-best-scenes-watch.html/`
 				}`,
 			},
 		};
